@@ -1,5 +1,5 @@
 # Set directory to create logs in
-$Directory = "D:\dev\practical-automation\logs"
+$Directory = "L:\Logs"
 # Set number of days, in the past, to create log files for
 $days = 90
 
